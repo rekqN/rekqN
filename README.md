@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Terminess+Nerd+Font+Mono&duration=2000&pause=400&color=49F7B6&width=435&lines=Welcome+to+my+profile!;Currently+~%3E+The+Odin+Project;Currently+~%3E+Finding+ways+to+document)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Terminess+Nerd+Font+Mono&duration=2000&pause=400&color=49F7B6&width=550&lines=Welcome+to+my+profile!;Currently+~%3E+The+Odin+Project;Currently+~%3E+Finding+ways+to+document+my+journey)](https://git.io/typing-svg)
 
 💬**Me**: Self-taught programmer grasping for knowledge.
 
