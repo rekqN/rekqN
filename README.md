@@ -2,10 +2,10 @@
 
 💬**Me**: Self-taught programmer grasping for knowledge.
 
-👨‍💻 LEARNING <br><br>
+👨‍💻 **Learning** <br><br>
 [![](https://skillicons.dev/icons?i=js,ruby,rails,ubuntu)](https://skillicons.dev)
 
-⭐ CERTIFICATIONS <br><br>
+⭐ **Certifications** <br><br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Terminess+Nerd+Font+Mono&duration=1&pause=1&color=FF0000&width=435&lines=!!+UNDER+MAINTENANCE+!!)](https://git.io/typing-svg)
 
 ## `✔`DEVELOPMENT
