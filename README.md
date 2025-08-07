@@ -5,8 +5,8 @@
 👨‍💻 **Learning** <br><br>
 [![](https://skillicons.dev/icons?i=java,spring,graphql,postman,aws)](https://skillicons.dev)
 
-⭐ **Certifications** <br><br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Terminess+Nerd+Font+Mono&duration=1&pause=1&color=FF0000&width=435&lines=!!+UNDER+MAINTENANCE+!!)](https://git.io/typing-svg)
+⭐ **Certifications**
+- AWS Cloud Quest: Cloud Practitioner 
 
 ## `✔`DEVELOPMENT
 [![](https://skillicons.dev/icons?i=c,python,java,postgres,graphql,git,html,css,vscode,docker,windows,ubuntu)](https://skillicons.dev)
