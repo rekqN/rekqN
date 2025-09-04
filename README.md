@@ -3,10 +3,10 @@
 💬**Me**: Self-taught programmer grasping for knowledge.
 
 👨‍💻 **Learning** <br><br>
-[![](https://skillicons.dev/icons?i=java,spring,graphql,postman,aws)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=java,spring,graphql,postman)](https://skillicons.dev)
 
 ⭐ **Certifications**
 - AWS Cloud Quest: Cloud Practitioner 
 
 ## `✔`DEVELOPMENT
-[![](https://skillicons.dev/icons?i=c,python,java,postgres,graphql,git,html,css,vscode,docker,windows,ubuntu)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,python,java,aws,postgres,graphql,git,html,css,vscode,docker,windows,ubuntu)](https://skillicons.dev)
