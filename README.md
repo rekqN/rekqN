@@ -3,7 +3,7 @@
 💬**Me**: Self-taught programmer grasping for knowledge.
 
 👨‍💻 **Learning** <br><br>
-[![](https://skillicons.dev/icons?i=java,spring,graphql,postman)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=spring,graphql,postman)](https://skillicons.dev)
 
 ⭐ **Certifications**
 - AWS Cloud Quest: Cloud Practitioner 
