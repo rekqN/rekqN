@@ -9,4 +9,4 @@
 - AWS Cloud Quest: Cloud Practitioner 
 
 ## `✔`DEVELOPMENT
-[![](https://skillicons.dev/icons?i=c,python,java,aws,postgres,graphql,git,html,css,vscode,docker,windows,ubuntu)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,python,java,aws,postgres,git,html,css,vscode,docker,windows,ubuntu)](https://skillicons.dev)
